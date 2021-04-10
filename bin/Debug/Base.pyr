@@ -1,0 +1,18 @@
+<Root WaitTime="1">
+  <Category Name="Sistemas">
+    <Device Category="Sistemas">
+      <Name>Innova</Name>
+      <IP>172.27.28.10</IP>
+    </Device>
+    <Device Category="Sistemas">
+      <Name>Legacy</Name>
+      <IP>172.27.25.144</IP>
+    </Device>
+  </Category>
+  <Category Name="Internet">
+    <Device Category="Internet">
+      <Name>Google</Name>
+      <IP>8.8.8.8</IP>
+    </Device>
+  </Category>
+</Root>
