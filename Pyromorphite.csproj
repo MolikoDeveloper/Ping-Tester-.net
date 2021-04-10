@@ -213,6 +213,7 @@
     <None Include="Resources\CloseRED.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="IP_STATUS.ico" />
   </ItemGroup>
   <ItemGroup>
